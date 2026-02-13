@@ -31,7 +31,7 @@ console.log("Telegram bot running...");
 // ===== OWNER / ADMIN =====
 
 const OWNERS = [
-  123456789 // <-- তোমার Telegram ID বসাও
+  7859995064 // <-- তোমার Telegram ID বসাও
 ];
 
 const ADMINS = [];
