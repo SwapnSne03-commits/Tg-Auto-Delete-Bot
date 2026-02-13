@@ -6,8 +6,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "dotenv": "^16.4.0",
-    "node-telegram-bot-api": "^0.64.0"
-    "express": "latest" 
+    "dotenv": "latest",
+    "node-telegram-bot-api": "latest",
+    "express": "latest"
   }
 }
