@@ -1,6 +1,6 @@
 {
-  "name": "telegram-auto-delete-bot",
-  "version": "1.0.0",
+  "name": "telegram-ultimate-bot",
+  "version": "5.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
