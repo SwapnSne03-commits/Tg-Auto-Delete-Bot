@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "dotenv": "latest",
-    "node-telegram-bot-api": "latest",
+    "node-telegram-bot-api": "0.67.0",
     "express": "latest",
     "mongodb": "latest"
   }
